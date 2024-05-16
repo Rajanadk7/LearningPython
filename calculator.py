@@ -1,0 +1,11 @@
+x =input("enter a Number")
+y =input("enter another Number")
+sum=int(x)+int(y)
+multiplication=int(x)*int(y)
+subtraction=int(x)-int(y)
+division=int(x)/int(y)
+print("the sum of the numbers is:", sum)
+print("the multiplication of the numbers is:", multiplication)
+print("the subtraction of the numbers is:", subtraction)
+print("the division of the numbers is:", division)
+ 
